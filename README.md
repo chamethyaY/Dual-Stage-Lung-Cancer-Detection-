@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-# lung-cancer-detection
 
-Placeholder description for a dual-stage lung cancer detection ML project.
-=======
+
 # Dual-Stage Lung Cancer Detection
 
 An ML system that detects lung cancer by combining CT scan image analysis with patient metadata risk scoring — with Grad-CAM and SHAP explainability.
