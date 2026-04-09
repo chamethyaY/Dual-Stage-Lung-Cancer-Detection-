@@ -64,5 +64,5 @@ pip install -r requirements.txt
 
 ---
 
-*For research and educational purposes only. Not intended for clinical use.*
->>>>>>> fdafeee701d6032317582d3bd6b6b956d5506d70
+
+
