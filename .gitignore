@@ -12,3 +12,4 @@ data/raw/
 *.egg-info/
 dist/
 build/
+*.h5
